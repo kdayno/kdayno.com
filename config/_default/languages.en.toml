@@ -26,3 +26,6 @@ description = "Kevin Dayno Personal Website"
 
     [[params.author.links]]
     linkedin = "http://www.linkedin.com/in/kdayno"
+
+["params.author"]
+image = "kev-headshot-bw.jpeg"
