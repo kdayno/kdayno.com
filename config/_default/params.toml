@@ -1,5 +1,5 @@
-colorScheme = "forest"
-defaultAppearance = "light"
+colorScheme = "noir"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
