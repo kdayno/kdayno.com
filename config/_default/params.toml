@@ -1,7 +1,7 @@
 colorScheme = "noir"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 replyByEmail = false
 disableImageOptimization = false
