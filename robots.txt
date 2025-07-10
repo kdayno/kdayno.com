@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://kdayno.github.io/kdayno.com/sitemap.xml
+Sitemap: https://kdayno.com/sitemap.xml
