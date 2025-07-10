@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://kdayno.github.io/kdayno.com/</loc>
+    <loc>http://localhost:1313/kdayno.com/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
