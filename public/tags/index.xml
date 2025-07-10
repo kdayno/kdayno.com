@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on kdayno</title>
-    <link>https://kdayno.github.io/kdayno.com/tags/</link>
+    <link>http://localhost:58300/kdayno.com/tags/</link>
     <description>Recent content in Tags on kdayno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>kdayno.contact@gmail.com (Kevin Dayno)</managingEditor>
     <webMaster>kdayno.contact@gmail.com (Kevin Dayno)</webMaster>
     
-    <atom:link href="https://kdayno.github.io/kdayno.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58300/kdayno.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
