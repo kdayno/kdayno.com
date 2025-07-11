@@ -10,19 +10,3 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 description = "Kevin Dayno Personal Website"
-
-  [params.author]
-  name = "Kevin Dayno"
-  email = "kdayno.contact@gmail.com"
-  image = "kev-headshot.jpeg"
-  imageQuality = 96
-  bio = "A little bit about you"
-
-    [[params.author.links]]
-    email = "kdayno.contact@gmail.com"
-
-    [[params.author.links]]
-    github = "https://github.com/kdayno"
-
-    [[params.author.links]]
-    linkedin = "http://www.linkedin.com/in/kdayno"
