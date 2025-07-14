@@ -22,18 +22,6 @@ enableEmoji = true
   pagerSize = 100
 
 
-[params.author]
-  name = "Kevin Dayno"
-  email = "kdayno.contact@gmail.com"
-  image = "kev-headshot.jpeg"
-  imageQuality = 96
-  bio = "A little bit about you"
-  links = [
-    { email = "mailto:kdayno.contact@gmail.com" },
-    { github = "https://github.com/kdayno" },
-    { linkedin = "http://www.linkedin.com/in/kdayno" },
-  ]
-
 [imaging]
   anchor = 'Center'
 
