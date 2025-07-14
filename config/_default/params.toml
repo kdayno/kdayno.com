@@ -24,7 +24,7 @@ layout = "basic"
 
 [footer]
 showMenu = true
-showCopyright = false
+showCopyright = true
 showThemeAttribution = true
 showAppearanceSwitcher = true
 showScrollToTop = true
