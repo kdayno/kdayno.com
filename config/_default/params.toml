@@ -31,7 +31,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-homepageImage = "galaxy.jpg"
+homepageImage = "northern-lights.webp"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
